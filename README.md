@@ -1,4 +1,4 @@
-Projeto de uma calculadora com interface gráfica desenvolvido em Java Swing.
+PROJETO DE UMA CALCULADORA COM INTERFACE GRÁFICA DESENVOLVIDA EM JAVA SWING.
 
 
 
